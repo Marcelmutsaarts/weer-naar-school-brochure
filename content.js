@@ -25,9 +25,9 @@ window.brochureTopics = [
   questions:['Wie is ons vaste aanspreekpunt op school?','Wie doet welke actie en wanneer bespreken we de voortgang?','Hebben we hulp nodig van een consulent OZL?']}
 ];
 window.brochureSources = {
- ouders:{name:'Ziezon: informatie voor ouders',url:'https://ziezon.nl/wp-content/uploads/sites/19/2023/03/ZOZV_Ouders_2023_def-LR_web.pdf'},
- leraren:{name:'Ziezon: langdurige of chronische ziekte',url:'https://ziezon.nl/wp-content/uploads/sites/19/2023/03/ZOZV_Langd-ziekte_2022_LR-web.pdf'},
- klas:{name:'Ziezon: een zieke leerling op school',url:'https://ziezon.nl/wp-content/uploads/sites/19/2020/12/Ziezonbrochure-ZiekeLeerlingopschool_def_WEB_NOV19-2.pdf'},
+ ouders:{name:'Ziezon: informatie voor ouders',url:'https://ziezon.nl/onderwijsondersteuning/informatie-voor-ouders/'},
+ leraren:{name:'Ziezon: langdurige of chronische ziekte',url:'https://ziezon.nl/zorgen-over-zorgen-voor-1/'},
+ klas:{name:'Ziezon: een zieke leerling in de klas',url:'https://ziezon.nl/over-ons/zieke-leerling-in-de-klas/'},
  regelhulp:{name:'Regelhulp: passend onderwijs bij ziekte',url:'https://www.regelhulp.nl/onderwerpen/welke-soort/onderwijs-en-zorg/ziekte-of-beperking'},
  ozl:{name:'Maastricht UMC+: onderwijsondersteuning',url:'https://info.mumc.nl/pub-1552'}
 };
